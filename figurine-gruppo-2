@@ -1,0 +1,108 @@
+START
+
+Luogo: casa, sala (modificato) 
+
+- Prendo il pacchetto
+
+- Guardo il pacchetto
+	Se TIPO FIGURINA = TIPO ALBUM allora cerco album nella stanza in cui sono
+	
+	ALTRIMENTI diverso da TIPO ALBUM allora verifico presenza in altre stanze
+	-Trovo l'album corrispondente
+
+- Verifico presenza busta
+	Se TIPO FIGURINA = TIPO ALBUM allora scarto 
+
+	Altrimenti cerco figurina
+
+
+Finchè TIPO FIGURINA =/= TIPO ALBUM non apro busta 
+
+Se apro la busta verifico tipo di figurina
+
+
+- apro l'album a pagina 1 
+
+- guardo i pacchetti
+	SE non ci sono pacchetti
+		- chiudo l'album
+	
+	ALTRIMENTI 
+		- ne prendo uno
+
+			- lo apro facendo attenzione a non rovinare le figurine all'interno
+			
+			- sfilo le figurine dal pacchetto 
+
+			- me le passo fra le mani e le controllo
+
+				SE c'è QUELLA figurina rara 
+					- ESULTO E SPACCO TUTTO
+		
+				ALTRIMENTI 
+					- proseguo
+			
+			- PER OGNI figurina 
+					
+					- controllo il numero sul retro della figurina
+
+						Controllo l'album e identifico le pagine interessate con all'interno gli ID mancanti,
+
+						SE trovo una pagina non interessata,
+
+     						vado avanti di 1 pagina,
+
+  						ALTRIMENTI Avvio prodecura di inserimento,
+
+						
+
+					- scorro le pagine dell'album fino a trovare il numero di figruina che stavo cercando
+
+
+					      Controllo le figurine e trovo quella interessata in base al numero,
+
+ 						 SE non corrisponde continuo il controllo,
+
+						  ALTRIMENTI rimuovi la pellicola dalla figurina stabilita,
+
+							 Prima di inserire la figurina all'interno del riquadro controllo che il riquadro combaci,
+
+  							SE non corrisponde,
+
+      						rielabora,
+
+							SE l'ultima figurina appiccicata ha un numero inferiore a quella attuale 
+								- scorro verso le pagine  verso le precedenti
+
+							ALTRIMENTI
+								- scorro verso le pagine verso successive
+
+							
+
+						
+					- controllo quel posto sull'album
+	
+							SE il posto è vuoto
+								- appiccico la figurina nell'album in quel posto
+
+							ALTRIMENTI 
+								- poggio la figurina in un mazzo adibito ai doppioni
+										
+										SE OGGI==SABATO
+											
+												-ordino i doppioni secondo un criterio "x"
+
+												-incontro gli amici
+
+												-mostro figurine 
+													SE amico interessato
+														- potrebbe prenderla
+													altrimenti passo
+												
+
+
+chiudo l'album
+
+
+
+FINE
